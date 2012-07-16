@@ -43,8 +43,6 @@ $time = microtime(1) - $time_start;
 echo '<br />Сортировка вставкой '.$time.' секунд';
 echo '<br /><br />';
 
-
-
 echo 'Сортировка шейкер<br />';
 $time_start = microtime(1);
 $arraySort->array = $array;

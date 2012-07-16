@@ -3,12 +3,6 @@ class phpclasssort {
 	public $array;
 
 	public function arrayFastSort(){
-		$count = count($this->array);
-
-		
-		
-		
-		
 		return $this->array;
 	}
 	
